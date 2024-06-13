@@ -1,2 +1,4 @@
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
+*.json linguist-detectable=true
+*.yaml linguist-detectable=true
