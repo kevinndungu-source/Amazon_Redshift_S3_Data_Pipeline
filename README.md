@@ -31,7 +31,5 @@ For those interested in replicating my cloud infrastructure setup, I provide *In
 3. Choose the appropriate cloud formation stack template (**YAML** or **JSON**) for your deployment.
 4. Deploy the stack using the **AWS CloudFormation** console or **CLI**. Refer to the [AWS documentation](https://docs.aws.amazon.com/whitepapers/latest/overview-deployment-options/aws-cloudformation.html) for detailed instructions on deploying CloudFormation stacks.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+---
 
