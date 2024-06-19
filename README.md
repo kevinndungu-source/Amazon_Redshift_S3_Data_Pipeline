@@ -2,6 +2,12 @@
 
 Welcome to the documentation repository for my Amazon Redshift Project! This repository contains detailed information about the project, including setup instructions, usage guidelines, and insights into data analysis processes.
 
+---
+
+![S3 Redshift](https://github.com/kevinndungu-source/Amazon_Redshift_S3_Data_Pipeline/assets/114335263/11fafc6b-288a-4163-8cd3-369fd19bd164)
+
+---
+
 ## Overview
 
 The Amazon Redshift Project is aimed at demonstrating effective data management and analysis using Amazon Redshift, a fully managed data warehouse service in the cloud. The `Amazon_RedShift_Project_Documentation` pdf file is divided into four main parts:
