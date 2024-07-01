@@ -22,7 +22,7 @@ The Amazon Redshift Project is aimed at demonstrating effective data management 
 
 ## Infrastructure as Code (IaC)
 
-For those interested in replicating my cloud infrastructure setup, I provide *Infrastructure as Code* (**IaC**) files in the `Amazon-Redshift_S3-Data_Pipeline` directory. You can find both YAML and JSON formats of my cloud formation stack templates, enabling easy deployment and scalability.
+For those interested in replicating my cloud infrastructure setup, I provide *Infrastructure as Code* (**IaC**) files in the `Amazon-Redshift_S3-Data_Pipeline` directory. You can find both [YAML](https://github.com/kevinndungu-source/Amazon_Redshift_S3_Data_Pipeline/blob/main/Project's_Code/Amazon_RedShift_Cloud_Formation_Stack_YAML_Code.yml) and [JSON](https://github.com/kevinndungu-source/Amazon_Redshift_S3_Data_Pipeline/blob/main/Project's_Code/Amazon_RedShift_Cloud_Formation_Stack_JSON_Code.json) formats of my cloud formation stack templates, enabling easy deployment and scalability.
 
 ### Deployment Instructions
 
