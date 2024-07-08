@@ -33,3 +33,8 @@ For those interested in replicating my cloud infrastructure setup, I provide *In
 
 ---
 
+## How to Run this project in your own environment
+
+**Clone the Repository:-**
+   ```sh
+   git clone http://github.com/kevinndungu-source/Amazon_Redshift_S3_Data_Pipeline
